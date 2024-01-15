@@ -1,0 +1,28 @@
+Assignment 6 comments:
+
+Part 1: MDPs
+
+1/1 load maps
+
+9/9 computePolicy
+
+13/15 value iteration
+please provide a way to test this.
+
+13/15 policy iteration
+please provide a way to test this.
+
+Part 2: Q-Learning.
+
+30/30
+
+Part 3: Blackjack
+
+15/15 tutorial
+
+15/15 wrapper
+
+96/100
+
+
+
